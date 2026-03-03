@@ -2,3 +2,4 @@
 Meu primeiro repositório na aula de pesquisa e inovação
 
 ALterando o repositório REMOTAMENTE :)
+Alterando repositório LOCALMENTE ;)
