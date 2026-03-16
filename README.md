@@ -1,5 +1,5 @@
 # meu-primeiro-repo
-Meu primeiro repositório na aula de pesquisa e inovação
+Meu primeiro repositório na aula de pesquisa e inovação do meu primeiro semestre cursando 
+Ciências da Computação na SPtech.
 
-ALterando o repositório REMOTAMENTE :)
-Alterando repositório LOCALMENTE ;)
+
